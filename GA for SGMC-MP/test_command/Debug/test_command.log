@@ -1,0 +1,26 @@
+﻿生成启动时间为 2020/8/6 9:07:18。
+     1>项目“C:\Users\89245\Desktop\Github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个Swap值\test_command\test_command.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\chromo.h(39): warning C4101: “m”: 未引用的局部变量
+     1>c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\chromo.h(76): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\ga.h(122): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\ga.h(111) : 忽略“i”的定义
+                 c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\ga.h(70) : 使用“i”的定义
+     1>c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\ga.h(123): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\ga.h(111) : 忽略“i”的定义
+                 c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\ga.h(70) : 使用“i”的定义
+     1>c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\ga.h(308): warning C4101: “e”: 未引用的局部变量
+     1>c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\main.cpp(20): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vs2012\vc\include\time.inl(112) : 参见“localtime”的声明
+     1>c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\main.cpp(44): warning C4101: “satbool”: 未引用的局部变量
+     1>c:\users\89245\desktop\github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个swap值\test_command\main.cpp(43): warning C4101: “stationbool”: 未引用的局部变量
+       Link:
+         D:\Program Files\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\89245\Desktop\Github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个Swap值\Debug\test_command.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\89245\Desktop\Github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个Swap值\Debug\test_command.pdb" /SUBSYSTEM:CONSOLE /STACK:"16000000","16000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\89245\Desktop\Github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个Swap值\Debug\test_command.lib" /MACHINE:X86 Debug\main.obj
+         test_command.vcxproj -> C:\Users\89245\Desktop\Github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个Swap值\Debug\test_command.exe
+     1>已完成生成项目“C:\Users\89245\Desktop\Github版本\test_command-200702-考虑两个 - 改变交叉算子 - 使用两个Swap值\test_command\test_command.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.65
